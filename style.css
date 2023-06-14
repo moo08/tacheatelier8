@@ -1,0 +1,185 @@
+.btn-outline-success{
+    background-color: #81b441;
+    color: #fff;
+}
+.premier{
+    background: rgb(56, 52, 52);
+}
+.logo{
+    color: #fff;
+}
+.logos{
+    color: #81b441;
+}
+.info{
+    color: #fff;
+}
+.navbar-text{
+    font-size: 12px;
+}
+.boo{
+    word-spacing: 10px;
+}
+.two{
+    height: 30px;
+    margin-top: 70px;
+}
+
+/*  banner  */
+
+.banner_wrapper{
+    background-image: url(groupe.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 500px;
+}
+.banner-background{
+    height: 500px;
+    background-color: rgba(0, 0, 0, 0.4);
+}
+
+.cool{
+    background-color: rgba(0, 0, 0, 0.2);
+}
+.btn-outline-primary{
+    color: #fff;
+}
+.btn-outline-primary:hover{
+    background: none;
+    color: #fec63f;
+}
+
+
+.genre{
+    display: flex;
+    flex-direction: column;
+}
+.genre a{
+    text-decoration: none;
+    color: #fff;
+}
+.good i::before {
+    position: relative;
+    top: 15px;
+}
+.good{
+    margin-left: 250px;
+}
+.text{
+    display: block;
+    align-items: center;
+}
+.text-banner .title{
+    margin-top: 200px;
+    font-size: 3.5em;
+}
+.neon{
+    word-spacing: 5px;
+}
+.neon span{
+    font-weight: 600;
+}
+.on{
+    color: #fec63f;
+}
+.on:hover{
+    color: #fff;
+}
+
+/*   Contact   */
+
+.mot{
+    display: flex;
+    flex-direction: column;
+}
+
+.contacts input{
+    height: 60px;
+}
+
+.contacts textarea{
+    height: 160px;
+}
+
+.contacts button{
+    background-color: #fec63f;
+    border: none;
+}
+
+h6{
+    color: grey;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* foooter*/
+
+.footer_wrapper{
+    background-image: url(footer.jpg);
+    background-attachment: fixed;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.footer_wrapper hr{
+    margin-left: 150px;
+    margin-top: -2px;
+}
+
+.card{
+    background-color: transparent;
+    color: #fff;
+}
+
+.card i{
+    margin-top: 5px;
+}
+
+.foot .row{
+    background-color: rgba(39, 38, 38, 0.2);
+}
+
+.jean a{
+    text-decoration: none;
+}
+
+.jean i{
+    width: 40px;
+    height: 40px;
+    background-color: black;
+    border-radius: 50px;
+    flex-direction: row;
+}
+
+.jean i:hover{
+    width: 40px;
+    height: 40px;
+    transition: 0.4s all ease-in-out;
+    background-color: #fec63f;
+}
+
+.terms{
+    background-color: transparent;
+}
+
+.terms a{
+    text-decoration: none;
+    color: gray;
+    font-size: 17px;
+}
+
+
